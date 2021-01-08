@@ -2,17 +2,17 @@
 	
 _Il n'y a rien de nouveau sous le soleil_
 	
-![image](C:\Users\nddin\Pictures\Camera Roll\img_20120825_180338.jpg)
+![image](https://media-exp1.licdn.com/dms/image/C4E03AQEc5_H4OB05qw/profile-displayphoto-shrink_400_400/0/1609754071094?e=1615420800&v=beta&t=5hBbz83SdnFpgL_cjzo1Nro-_j9UZ1thYTzrmaqhW8o)
 	
 ## Mon prénom signifie _**espérance**_ , donc je garde espoir en toute temps ##
 	
-	INFOS | DONNEES
+| 	INFOS | DONNEES| 
 ------------ | -------------
-Anniversaire | 29-01
-Sexe | :girl:
-Couleur préférée  | #A4A4A4 & #8A4B08
-Nourriture favorite | Kimbap & ramen (made from Korean) :kr:
-Ananas sur pizza |  [ ] Oui [ ] Non [x] ~~Je ne sais pas, faut que je goûte~~ :-D
+| Anniversaire | 29-01 | 
+| Sexe | F | 
+| Couleur préférée  | Gris & Brun | 
+| Nourriture favorite | Kimbap & ramen (made from Korean) |  
+| Ananas sur pizza |  [ ] Oui [ ] Non [x] ~~Je ne sais pas, faut que je goûte~~ :-D | 
 
 ### Hobbies ###
 
@@ -39,6 +39,6 @@ Quand j'étais en secondaire, j'avais cours de piscine et étant myope et ne pouva
 
 Les apparences sont trompeuses !!  
 	
-<< ![Michael Zerghe](https://) || AGOSTINHO ||  ![Frédérique Baillais](https://github.com/FredBail/challenge-markdown/blob/main/index.md) >>
+<<[Michael Zerghe](https://) || AGOSTINHO || [Frédérique Baillais](https://github.com/FredBail/challenge-markdown/blob/main/index.md) >>
 
 
