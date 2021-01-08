@@ -1,1 +1,44 @@
-# challenge-markdown
+# NADJA D. AGOSTINHO #
+	
+_Il n'y a rien de nouveau sous le soleil_
+	
+![image](C:\Users\nddin\Pictures\Camera Roll\img_20120825_180338.jpg)
+	
+## Mon prénom signifie _**espérance**_ , donc je garde espoir en toute temps ##
+	
+	INFOS | DONNEES
+------------ | -------------
+Anniversaire | 29-01
+Sexe | :girl:
+Couleur préférée  | #A4A4A4 & #8A4B08
+Nourriture favorite | Kimbap & ramen (made from Korean) :kr:
+Ananas sur pizza |  [ ] Oui [ ] Non [x] ~~Je ne sais pas, faut que je goûte~~ :-D
+
+### Hobbies ###
+
+1. Instruments de musique:
+   * piano
+   * violon
+2. Cuisine
+3. Herboristerie
+4. Maraîchage
+5. Sports: 
+   * HIIT
+   * Course à pieds
+   * Rando
+
+####  Vous pouvez toujours compter sur moi... ####
+
+Pour ma bonne humeur et ma joie de vivre 
+	
+#####  Une histoire amusante #####
+
+Quand j'étais en secondaire, j'avais cours de piscine et étant myope et ne pouvant pas porter de lunettes de vue dans l'eau, avec mes camarades de classe, on jouait dans l'eau à touche-touche (pour ceux qui s'en souvienne), on nageait vite pour rattrapper celui qu'on voulait "toucher". Quand c'était à mon tour j'ai cru reconnaitre au loin (lol myope) mon amiCédric, alors je nage, je nage vers lui, je lui saute dessus en criant "TOUCHÉ CEDRIC !! " en enfonçant sa tête dans l'eau. Et là surprise, ce n'était pas Cédric, mais une toute autre personne !  Imaginez la tête du gars :-D
+	
+###### TL; DR ######
+
+Les apparences sont trompeuses !!  
+	
+<< ![Michael Zerghe](https://) || AGOSTINHO ||  ![Frédérique Baillais](https://github.com/FredBail/challenge-markdown/blob/main/index.md) >>
+
+
